@@ -81,7 +81,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: What Is Ethical Breathplay?
+      text: What Makes It Ethical?
       color: text-dark
       styles:
         self:
