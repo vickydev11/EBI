@@ -211,7 +211,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/EBI2.jpg
+          url: /images/EBI-7.jpg
           altText: ''
           elementId: ''
           styles:
