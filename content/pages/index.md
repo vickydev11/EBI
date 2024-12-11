@@ -64,10 +64,13 @@ sections:
     subtitle: Ethical Breathplay is breathwork with a playful twist
     text: >
       Discover a sensual exploration of control, release, and embodied pleasure.
-      It’s tantalizing yet intentional, exhilarating yet grounded in safety and
-      care. By merging somatic principles with the art of breathplay, this
-      practice becomes a pathway to connection, fulfillment, and the kind of
-      satisfaction that lingers long after the breath returns.
+      Ethical Breathplay is tantalizing yet intentional, exhilarating yet
+      grounded in safety and care. 
+
+
+      By merging somatic principles with the art of breathplay, this practice
+      becomes a pathway to connection, fulfillment, and the kind of satisfaction
+      that lingers long after the breath returns.
 
 
       Ethical Breathpmay isn’t just about breath holding or breath control, it’s
