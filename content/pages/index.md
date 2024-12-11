@@ -207,7 +207,7 @@ sections:
           skillfully
 
         image:
-          url: /images/icon3.svg
+          url: /images/EBI-7.jpg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
