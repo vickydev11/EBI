@@ -160,10 +160,11 @@ sections:
         subtitle: >-
           professionals and the public through rigorous, high-quality training
           programs.
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          We provide high-quality training to equip professionals with the
+          knowledge and confidence to facilitate Ethical Breathplay safely and
+          skillfully
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
