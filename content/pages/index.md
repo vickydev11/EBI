@@ -35,7 +35,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/EBI-1.jpg
       altText: ''
       elementId: ''
       type: ImageBlock
