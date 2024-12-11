@@ -203,7 +203,7 @@ sections:
           A comprehensive, 6-week certification program for professionals ready
           to master facilitation with skill, care, and confidence.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/EBI-4.jpg
           altText: Placeholder Image
           styles:
             self:
