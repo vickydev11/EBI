@@ -300,7 +300,7 @@ sections:
       altText: Fun feature preview
       type: ImageBlock
     badge:
-      label: ''
+      label: ' '
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
