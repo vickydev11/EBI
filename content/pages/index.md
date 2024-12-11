@@ -105,8 +105,10 @@ sections:
       - type: FeaturedItem
         title: Legitimizing
         subtitle: 'breathplay as a safe, effective somatic modality.'
-        text: |
-          breathplay as a safe, effective somatic modality.
+        text: >+
+          We elevate breathplay as a recognized somatic modality, rooted in
+          safety, skill, and professionalism.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
