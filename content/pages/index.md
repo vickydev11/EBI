@@ -121,7 +121,6 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/EBI-8.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
