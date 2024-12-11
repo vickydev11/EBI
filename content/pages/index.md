@@ -199,8 +199,10 @@ sections:
       - title: Level 1 Provider & Facilitator Training
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          A comprehensive, 8-week certification program for professionals ready
+          to master facilitation with skill, care, and confidence.
+
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
