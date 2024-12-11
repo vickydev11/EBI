@@ -208,7 +208,7 @@ sections:
 
         image:
           url: /images/EBI-7.jpg
-          altText: Featured icon three
+          altText: ''
           elementId: ''
           type: ImageBlock
         actions: []
