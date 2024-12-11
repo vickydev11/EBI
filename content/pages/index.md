@@ -40,7 +40,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Welcome To
+      label: Welcome To The
       color: text-primary
       type: Badge
     elementId: ''
