@@ -1,0 +1,31 @@
+{
+    "model": "ImageBlock",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "2",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Main"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "url": {
+                    "$$ref": "stackbit_asset_id:static:public/images/EBI2.jpg",
+                    "$$type": "__asset_model"
+                },
+                "altText": "",
+                "elementId": "",
+                "styles": {
+                    "self": {
+                        "borderRadius": "x-large"
+                    }
+                }
+            },
+            "thumbnail": "images/image-block-2-ab23.png"
+        }
+    ]
+}
