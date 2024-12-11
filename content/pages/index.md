@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Welcome to the Ethical Breathplay Institute
+      text: The Ethical Breathplay Institute
       color: text-dark
       type: TitleBlock
     subtitle: 'Where breath becomes play, and play unlocks pleasure.'
