@@ -180,7 +180,7 @@ sections:
 
         image:
           url: /images/EBI-6.jpg
-          altText: Featured icon two
+          altText: ''
           elementId: ''
           type: ImageBlock
         actions: []
