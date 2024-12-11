@@ -225,11 +225,10 @@ sections:
           Ideal for practitioners seeking foundational tools and safety
           essentials.
         subtitle: ''
-        text: >+
-          An essential workshop for practitioners seeking foundational tools,
-          safety protocols, and harm-reduction practices to responsibly engage
-          in breathplay.
-
+        text: >
+          An essential workshop for adepts and practitioners seeking
+          foundational tools, safety protocols, and harm-reduction practices to
+          responsibly engage in breathplay.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
