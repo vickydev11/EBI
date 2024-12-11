@@ -52,7 +52,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Ethical Breathplay is breathwork with a playful twist
+    subtitle: Breathplay is essentially breathwork with a playful twist...
     text: >+
       Breathplay is the intentional restriction or manipulation of breath to
       heighten **sensation, arousal, and presence**. By playing with the edge
