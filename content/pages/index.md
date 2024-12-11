@@ -278,6 +278,7 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
+    elementId: training
   - title: Divider
     colors: bg-light-fg-dark
     styles:
