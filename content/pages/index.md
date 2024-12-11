@@ -1,5 +1,5 @@
 ---
-title: The Breathplay Institute
+title: The Ethical Breathplay Institute
 slug: /
 sections:
   - type: GenericSection
