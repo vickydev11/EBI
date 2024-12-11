@@ -100,7 +100,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: 'At the Ethical Breathplay Institute, we are committed to:'
     items:
       - type: FeaturedItem
         title: 500k
