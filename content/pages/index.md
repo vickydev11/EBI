@@ -234,8 +234,8 @@ sections:
             elementId: ''
       - title: Basic Breathplay Practice
         tagline: >-
-          Ideal for practitioners seeking foundational tools and safety
-          essentials.
+          Lay the foundation for safe, ethical breathplay. Because trust begins
+          with understanding the basics.
         subtitle: ''
         text: >
           An essential workshop for adepts and practitioners seeking
