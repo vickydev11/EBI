@@ -166,7 +166,7 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
+          altText: ''
           elementId: ''
           url: /images/EBI2.jpg
           styles:
@@ -179,10 +179,13 @@ sections:
           ethically, is a responsible and transformative tool.
 
         image:
-          url: /images/EBI-6.jpg
-          altText: Featured icon two
-          elementId: ''
           type: ImageBlock
+          url: /images/EBI-6.jpg
+          altText: ''
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -207,10 +210,13 @@ sections:
           skillfully
 
         image:
-          url: /images/EBI-7.jpg
-          altText: Featured icon three
-          elementId: ''
           type: ImageBlock
+          url: /images/EBI-7.jpg
+          altText: ''
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
