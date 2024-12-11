@@ -2,58 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    title:
-      text: Welcome to the Ethical Breathplay Institute
-      color: text-dark
-      type: TitleBlock
-    subtitle: 'Where breath becomes play, and play unlocks pleasure.'
-    text: >+
-      At the crossroads of kink and somatic healing, Ethical Breathplay invites
-      you to explore the edges of sensation, connection, and fulfillment. It’s
-      where control flirts with surrender, where breath teases the body’s
-      desires, and where a simple inhale and exhale can become an act of deep
-      trust, playfulness, and presence.
-
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
-    media:
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
@@ -171,6 +119,58 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      text: Welcome to the Ethical Breathplay Institute
+      color: text-dark
+      type: TitleBlock
+    subtitle: 'Where breath becomes play, and play unlocks pleasure.'
+    text: >+
+      At the crossroads of kink and somatic healing, Ethical Breathplay invites
+      you to explore the edges of sensation, connection, and fulfillment. It’s
+      where control flirts with surrender, where breath teases the body’s
+      desires, and where a simple inhale and exhale can become an act of deep
+      trust, playfulness, and presence.
+
+    actions:
+      - label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
+      - label: See Tutorials
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Link
+    media:
+      url: /images/main-hero.svg
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
+    badge:
+      label: This is a badge
+      color: text-primary
+      type: Badge
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
