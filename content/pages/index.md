@@ -104,7 +104,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Legitimizing
-        subtitle: Numbers Done
+        subtitle: 'breathplay as a safe, effective somatic modality.'
         text: |
           breathplay as a safe, effective somatic modality.
         actions: []
