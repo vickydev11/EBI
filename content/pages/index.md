@@ -103,7 +103,7 @@ sections:
     subtitle: 'At the Ethical Breathplay Institute, we are committed to:'
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Legitimizing
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
