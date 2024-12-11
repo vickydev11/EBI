@@ -222,7 +222,7 @@ sections:
         type: FeaturedItem
       - title: Basic Safety & Harm-Reduction for Practitioners
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: For those ready to master facilitation with skill and care.
         text: >+
           An essential workshop for practitioners seeking foundational tools,
           safety protocols, and harm-reduction practices to responsibly engage
