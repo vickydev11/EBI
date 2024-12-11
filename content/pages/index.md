@@ -166,7 +166,7 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
+          altText: ''
           elementId: ''
           url: /images/EBI2.jpg
           styles:
