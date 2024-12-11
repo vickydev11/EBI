@@ -40,7 +40,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: ' EBI'
+      label: ' EBI by Vicky Devika'
       color: text-primary
       type: Badge
     elementId: ''
