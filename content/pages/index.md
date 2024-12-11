@@ -188,7 +188,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Training Opportunities
+      text: Current Training Opportunities
       color: text-primary
       styles:
         self:
