@@ -274,7 +274,9 @@ sections:
       text: Join the Movement
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: >-
+      The Ethical Breathplay Institute is redefining what’s possible when
+      breath, body, and intention align.
     text: >
       Whether you're a professional seeking advanced training or simply curious
       about Ethical Breathplay, you’re in the right place to discover a practice
