@@ -210,10 +210,13 @@ sections:
           skillfully
 
         image:
-          url: /images/EBI-7.jpg
+          type: ImageBlock
+          url: /images/EBI2.jpg
           altText: ''
           elementId: ''
-          type: ImageBlock
+          styles:
+            self:
+              borderRadius: x-large
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
