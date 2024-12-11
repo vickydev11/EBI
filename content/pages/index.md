@@ -240,7 +240,7 @@ sections:
           foundational tools, safety protocols, and harm-reduction practices to
           responsibly engage in breathplay.
         image:
-          url: /images/EBI-3.jpg
+          url: /images/EBI-5.jpg
           altText: Placeholder image
           styles:
             self:
