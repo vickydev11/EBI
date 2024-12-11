@@ -231,9 +231,7 @@ sections:
             style: primary
             elementId: ''
       - title: Basic Breathplay Practice
-        tagline: >-
-          Lay the foundation for safe, ethical breathplay. Because trust begins
-          with understanding the basics.
+        tagline: 'Lay the foundation for safe, ethical breathplay.'
         subtitle: ''
         text: >
           An essential workshop for adepts and practitioners seeking
