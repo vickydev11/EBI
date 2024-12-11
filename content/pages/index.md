@@ -194,7 +194,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: 'Unlock the Art of Breathplay: Safe, Skilled, and Sensual.'
     items:
       - title: Level 1 Provider & Facilitator Training
         tagline: For those ready to master facilitation with skill and care.
