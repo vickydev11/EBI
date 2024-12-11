@@ -155,7 +155,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Educating
-        subtitle: Faster
+        subtitle: >-
+          professionals and the public through rigorous, high-quality training
+          programs.
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
