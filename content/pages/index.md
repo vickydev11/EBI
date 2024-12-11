@@ -96,13 +96,6 @@ sections:
       autoplay: true
       loop: true
       muted: true
-    badge:
-      label: What Is Ethical Breathplay?
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
     colors: bg-light-fg-dark
     styles:
       self:
