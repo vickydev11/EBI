@@ -220,7 +220,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Basic Breathplay for Practitioners
+      - title: Basic Breathplay Practice
         tagline: >-
           Ideal for practitioners seeking foundational tools and safety
           essentials.
