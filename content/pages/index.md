@@ -55,7 +55,7 @@ sections:
           - pb-16
           - pr-16
   - title:
-      text: What Is Ethical Breathplay?
+      text: Breathwork with a playful twist
       color: text-dark
       styles:
         self:
