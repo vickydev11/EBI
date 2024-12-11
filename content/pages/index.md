@@ -79,6 +79,7 @@ sections:
       styles:
         self:
           borderRadius: medium
+      url: /images/beautiful-woman-plastic-wrap-wallpaper.jpg
   - type: GenericSection
     title:
       type: TitleBlock
@@ -120,7 +121,6 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/beautiful-woman-plastic-wrap-wallpaper.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
