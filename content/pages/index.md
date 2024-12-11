@@ -86,7 +86,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Ethical Breathplay is breathwork with a playful twist
+    subtitle: ''
     text: >+
       **Ethical Breathplay** takes this practice further by grounding it in
       **safety, trust, and skillful facilitation**. It transforms an inherently
