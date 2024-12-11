@@ -276,11 +276,9 @@ sections:
       type: TitleBlock
     subtitle: Increase your reach
     text: >
-      The Ethical Breathplay Institute is redefining what’s possible when
-      breath, body, and intention align. Whether you're a professional seeking
-      advanced training or simply curious about Ethical Breathplay, you’re in
-      the right place to discover a practice that is as **playful** as it is
-      **profound**.
+      Whether you're a professional seeking advanced training or simply curious
+      about Ethical Breathplay, you’re in the right place to discover a practice
+      that is as **playful** as it is **profound**.
     actions:
       - label: Get started
         url: /
