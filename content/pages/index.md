@@ -275,7 +275,8 @@ sections:
           - type: Button
             label: Get started
             altText: ''
-            url: '#'
+            url: >-
+              https://calendly.com/vickydevika/ethical-breathplay-training-onboarding-call
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -309,7 +310,8 @@ sections:
           - type: Button
             label: Get started
             altText: ''
-            url: '#'
+            url: >-
+              https://calendly.com/vickydevika/ethical-breathplay-training-onboarding-call
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -352,7 +354,8 @@ sections:
       that is as **playful** as it is **profound**.
     actions:
       - label: Sign Up For Training
-        url: /
+        url: >-
+          https://calendly.com/vickydevika/ethical-breathplay-training-onboarding-call
         icon: arrowRight
         iconPosition: right
         style: secondary
