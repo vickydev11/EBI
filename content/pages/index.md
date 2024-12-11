@@ -221,7 +221,9 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Basic Safety & Harm-Reduction for Practitioners
-        tagline: This is the tagline
+        tagline: >-
+          Ideal for practitioners seeking foundational tools and safety
+          essentials.
         subtitle: ''
         text: >+
           An essential workshop for practitioners seeking foundational tools,
