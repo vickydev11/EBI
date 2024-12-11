@@ -94,7 +94,7 @@ sections:
           borderRadius: medium
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Our Mission
       color: text-dark
       styles:
         self:
