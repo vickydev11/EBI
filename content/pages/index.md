@@ -8,10 +8,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 'Where breath becomes play, and play unlocks pleasure.'
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      At the crossroads of kink and somatic healing, Ethical Breathplay invites
+      you to explore the edges of sensation, connection, and fulfillment. It’s
+      where control flirts with surrender, where breath teases the body’s
+      desires, and where a simple inhale and exhale can become an act of deep
+      trust, playfulness, and presence.
+
     actions:
       - label: Get started
         altText: ''
