@@ -372,7 +372,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: The Breathplay Institute
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: 'Breathwork redefined: sensual, playful, and deeply fulfilling.'
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
