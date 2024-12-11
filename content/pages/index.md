@@ -309,7 +309,7 @@ sections:
         style: secondary
         type: Button
     media:
-      url: /images/EBI-3.jpg
+      url: /images/EBI-1.jpg
       altText: Fun feature preview
       type: ImageBlock
     badge:
