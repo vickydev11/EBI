@@ -18,7 +18,7 @@ sections:
     actions:
       - label: See Training Opportunities
         altText: ''
-        url: /
+        url: '#training'
         showIcon: true
         icon: arrowRight
         iconPosition: right
