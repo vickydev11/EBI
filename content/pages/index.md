@@ -46,7 +46,7 @@ sections:
           - pb-16
           - pr-16
   - title:
-      text: What Is Ethical Breathplay?
+      text: What Is Breathplay?
       color: text-dark
       styles:
         self:
