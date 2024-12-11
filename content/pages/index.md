@@ -86,7 +86,7 @@ sections:
     type: GenericSection
     media:
       type: ImageBlock
-      url: /images/EBI2.jpg
+      url: /images/beautiful-woman-plastic-wrap-wallpaper.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
