@@ -223,8 +223,11 @@ sections:
       - title: Basic Safety & Harm-Reduction for Practitioners
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >+
+          An essential workshop for practitioners seeking foundational tools,
+          safety protocols, and harm-reduction practices to responsibly engage
+          in breathplay.
+
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
