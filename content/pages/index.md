@@ -197,7 +197,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - title: Level 1 Provider & Facilitator Training
-        tagline: This is the tagline
+        tagline: For those ready to master facilitation with skill and care.
         subtitle: ''
         text: >
           A comprehensive, 6-week certification program for professionals ready
