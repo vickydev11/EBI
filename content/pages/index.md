@@ -1,5 +1,5 @@
 ---
-title: Home
+title: The Breathplay Institute
 slug: /
 sections:
   - type: GenericSection
@@ -371,9 +371,9 @@ sections:
         alignItems: center
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: The Breathplay Institute
+  metaDescription: 'Breathwork redefined: sensual, playful, and deeply fulfilling.'
+  socialImage: /images/EBI-5.jpg
   type: Seo
 type: PageLayout
 ---
