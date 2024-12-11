@@ -97,7 +97,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: What Is Ethical Breathplay?
       color: text-primary
       styles:
         self:
