@@ -220,7 +220,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Basic Safety & Harm-Reduction for Practitioners
+      - title: Basic Breathplay for Practitioners
         tagline: >-
           Ideal for practitioners seeking foundational tools and safety
           essentials.
