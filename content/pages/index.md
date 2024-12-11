@@ -222,9 +222,7 @@ sections:
         type: FeaturedItem
       - title: Basic Safety & Harm-Reduction for Practitioners
         tagline: This is the tagline
-        subtitle: >-
-          Ideal for practitioners seeking foundational tools and safety
-          essentials.
+        subtitle: ''
         text: >+
           An essential workshop for practitioners seeking foundational tools,
           safety protocols, and harm-reduction practices to responsibly engage
