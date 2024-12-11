@@ -179,7 +179,7 @@ sections:
           ethically, is a responsible and transformative tool.
 
         image:
-          url: /images/icon2.svg
+          url: /images/IMG_20190430_222530.jpg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
