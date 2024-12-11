@@ -373,7 +373,7 @@ sections:
 seo:
   metaTitle: The Breathplay Institute
   metaDescription: 'Breathwork redefined: sensual, playful, and deeply fulfilling.'
-  socialImage: /images/EBI-1.jpg
+  socialImage: /images/EBI-5.jpg
   type: Seo
 type: PageLayout
 ---
