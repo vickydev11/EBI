@@ -196,7 +196,7 @@ sections:
       type: TitleBlock
     subtitle: Featured items section subtitle
     items:
-      - title: Feature Item One
+      - title: Level 1 Provider & Facilitator Training
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
