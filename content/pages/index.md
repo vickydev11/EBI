@@ -8,13 +8,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: "Breathwork redefined:\_sensual, playful, and deeply fulfilling."
-    text: >+
+    text: >
       At the crossroads of kink and somatic healing, Ethical Breathplay invites
-      you to explore the edges of sensation, connection, and fulfillment. It’s
-      where control flirts with surrender, where breath teases the body’s
+      you to explore the edges of sensation, connection, and fulfillment. 
+
+
+      It’s where control flirts with surrender, where breath teases the body’s
       desires, and where a simple inhale and exhale can become an act of deep
       trust, playfulness, and presence.
-
     actions:
       - label: See Training Opportunities
         altText: ''
@@ -46,27 +47,23 @@ sections:
           - pb-16
           - pr-16
   - title:
-      text: What Is Ethical Breathplay?
+      text: What Is Breathplay?
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Ethical Breathplay is breathwork with a playful twist
-    text: >
-      Discover a sensual exploration of control, release, and embodied pleasure.
-      Ethical Breathplay is tantalizing yet intentional, exhilarating yet
-      grounded in safety and care. 
+    subtitle: ''
+    text: >+
+      Breathplay is the intentional restriction or manipulation of breath to
+      heighten **sensation, arousal, and presence**. By playing with the edge
+      between control and release, breathplay can amplify the body’s response to
+      physical and emotional stimuli.
 
 
-      By merging somatic principles with the art of breathplay, this practice
-      becomes a pathway to connection, fulfillment, and the kind of satisfaction
-      that lingers long after the breath returns.
+      It taps into the primal connection between breath, survival, and pleasure,
+      creating experiences that are exhilarating, intense, and deeply intimate.
 
-
-      Ethical Breathpmay isn’t just about breath holding or breath control, it’s
-      about discovery & **pleasure:** for trust, intimacy, and the playful power
-      of what breath can do.
     colors: bg-light-fg-dark
     styles:
       self:
@@ -77,12 +74,65 @@ sections:
     type: GenericSection
     media:
       type: ImageBlock
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: What Makes It Ethical?
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    text: >+
+      **Ethical Breathplay** takes this practice further by grounding it in
+      **safety, trust, and skillful facilitation**. It transforms an inherently
+      edgy activity into a somatic modality — one that prioritizes the
+      emotional, psychological, and physical well-being of all participants.
+
+
+      At its heart, Ethical Breathplay is:
+
+
+      *   **Intentional**: Designed with clear communication, consent, and
+      purpose, ensuring every experience is both fulfilling and responsible.
+
+
+      *   **Safe**: Rooted in physiological knowledge and harm-reduction
+      practices to mitigate risks and maximize care.
+
+
+      *   **Transformative**: A tool for exploring embodiment, sensuality, and
+      cathartic release — creating space for profound pleasure, trust, and
+      emotional exploration.
+
+
+      By merging the art of breathplay with ethical principles and somatic
+      awareness, Ethical Breathplay reimagines this practice as a pathway to
+      deeper **fulfillment, connection, and empowerment**.
+
+
+
+    actions: []
+    media:
+      type: ImageBlock
       url: /images/beautiful-woman-plastic-wrap-wallpaper.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
         self:
           borderRadius: medium
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: col
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       text: Our Mission
@@ -118,7 +168,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/EBI2.jpg
           styles:
             self:
               borderRadius: x-large
@@ -129,7 +179,7 @@ sections:
           ethically, is a responsible and transformative tool.
 
         image:
-          url: /images/icon2.svg
+          url: /images/EBI-6.jpg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -157,7 +207,7 @@ sections:
           skillfully
 
         image:
-          url: /images/icon3.svg
+          url: /images/EBI-7.jpg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
