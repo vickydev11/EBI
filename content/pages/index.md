@@ -62,11 +62,19 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Ethical Breathplay is breathwork with a playful twist
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Discover a sensual exploration of control, release, and embodied pleasure.
+      It’s tantalizing yet intentional, exhilarating yet grounded in safety and
+      care. By merging somatic principles with the art of breathplay, this
+      practice becomes a pathway to connection, fulfillment, and the kind of
+      satisfaction that lingers long after the breath returns.
+
+
+      This isn’t just about holding breath — it’s about holding **pleasure**:
+      for trust, intimacy, and the playful power of what breath can do.
+
+
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
