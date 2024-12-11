@@ -371,7 +371,7 @@ sections:
         alignItems: center
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: The Breathplay Institute
   metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
