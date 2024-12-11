@@ -197,7 +197,9 @@ sections:
     subtitle: 'Unlock the Art of Breathplay: Safe, Skilled, and Sensual.'
     items:
       - title: Level 1 Provider & Facilitator Training
-        tagline: For those ready to master facilitation with skill and care.
+        tagline: >-
+          A deep dive into the art of breathplay. For those ready to lead with
+          skill, safety, and confidence.
         subtitle: ''
         text: >
           A comprehensive, 6-week certification program for professionals ready
