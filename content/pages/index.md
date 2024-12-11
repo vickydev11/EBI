@@ -187,6 +187,45 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: What Is Ethical Breathplay?
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: Ethical Breathplay is breathwork with a playful twist
+    text: >
+      Discover a sensual exploration of control, release, and embodied pleasure.
+      Ethical Breathplay is tantalizing yet intentional, exhilarating yet
+      grounded in safety and care. 
+
+
+      By merging somatic principles with the art of breathplay, this practice
+      becomes a pathway to connection, fulfillment, and the kind of satisfaction
+      that lingers long after the breath returns.
+
+
+      Ethical Breathpmay isn’t just about breath holding or breath control, it’s
+      about discovery & **pleasure:** for trust, intimacy, and the playful power
+      of what breath can do.
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/beautiful-woman-plastic-wrap-wallpaper.jpg
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: col
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - title:
       text: Current Training Opportunities
       color: text-primary
@@ -320,45 +359,6 @@ sections:
       self:
         alignItems: center
     type: GenericSection
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: What Is Ethical Breathplay?
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: Ethical Breathplay is breathwork with a playful twist
-    text: >
-      Discover a sensual exploration of control, release, and embodied pleasure.
-      Ethical Breathplay is tantalizing yet intentional, exhilarating yet
-      grounded in safety and care. 
-
-
-      By merging somatic principles with the art of breathplay, this practice
-      becomes a pathway to connection, fulfillment, and the kind of satisfaction
-      that lingers long after the breath returns.
-
-
-      Ethical Breathpmay isn’t just about breath holding or breath control, it’s
-      about discovery & **pleasure:** for trust, intimacy, and the playful power
-      of what breath can do.
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/beautiful-woman-plastic-wrap-wallpaper.jpg
-      altText: Image alt text placeholder
-      elementId: ''
-      styles:
-        self:
-          borderRadius: medium
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
