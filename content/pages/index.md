@@ -371,7 +371,7 @@ sections:
         alignItems: center
     type: GenericSection
 seo:
-  metaTitle: The Breathplay Institute
+  metaTitle: The Ethical Breathplay Institute
   metaDescription: 'Breathwork redefined: sensual, playful, and deeply fulfilling.'
   socialImage: /images/EBI-5.jpg
   type: Seo
