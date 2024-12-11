@@ -179,10 +179,13 @@ sections:
           ethically, is a responsible and transformative tool.
 
         image:
-          url: /images/EBI-6.jpg
+          type: ImageBlock
+          url: /images/EBI2.jpg
           altText: ''
           elementId: ''
-          type: ImageBlock
+          styles:
+            self:
+              borderRadius: x-large
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
