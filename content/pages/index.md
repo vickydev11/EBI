@@ -8,13 +8,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: "Breathwork redefined:\_sensual, playful, and deeply fulfilling."
-    text: >+
+    text: >
       At the crossroads of kink and somatic healing, Ethical Breathplay invites
-      you to explore the edges of sensation, connection, and fulfillment. It’s
-      where control flirts with surrender, where breath teases the body’s
+      you to explore the edges of sensation, connection, and fulfillment. 
+
+
+      It’s where control flirts with surrender, where breath teases the body’s
       desires, and where a simple inhale and exhale can become an act of deep
       trust, playfulness, and presence.
-
     actions:
       - label: See Training Opportunities
         altText: ''
