@@ -220,6 +220,16 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: '#'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
       - title: Basic Breathplay Practice
         tagline: >-
           Ideal for practitioners seeking foundational tools and safety
