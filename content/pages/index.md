@@ -16,7 +16,7 @@ sections:
       trust, playfulness, and presence.
 
     actions:
-      - label: See Tutorials
+      - label: See Training Opportunities
         altText: ''
         url: /
         showIcon: true
