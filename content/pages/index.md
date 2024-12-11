@@ -7,7 +7,7 @@ sections:
       text: Welcome To The Ethical Breathplay Institute
       color: text-dark
       type: TitleBlock
-    subtitle: 'Breathwork redefined:'
+    subtitle: "Breathwork redefined:\_sensual, playful, and deeply fulfilling."
     text: >+
       At the crossroads of kink and somatic healing, Ethical Breathplay invites
       you to explore the edges of sensation, connection, and fulfillment. It’s
