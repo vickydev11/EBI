@@ -282,7 +282,7 @@ sections:
       about Ethical Breathplay, you’re in the right place to discover a practice
       that is as **playful** as it is **profound**.
     actions:
-      - label: Get started
+      - label: Sign Up
         url: /
         icon: arrowRight
         iconPosition: right
