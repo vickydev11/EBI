@@ -121,7 +121,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/IMG_20200404_214611.jpg
+      url: /images/EBI-8.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
