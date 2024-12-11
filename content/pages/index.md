@@ -196,15 +196,16 @@ sections:
       type: TitleBlock
     subtitle: 'Unlock the Art of Breathplay: Safe, Skilled, and Sensual.'
     items:
-      - title: Level 1 Provider & Facilitator Training
-        tagline: A deep dive into the art of breathplay.
+      - title: Basic Breathplay Practice
+        tagline: 'Lay the foundation for safe, ethical breathplay.'
         subtitle: ''
         text: >
-          A comprehensive, 6-week certification program for professionals ready
-          to master facilitation with skill, care, and confidence.
+          An essential workshop for adepts and practitioners seeking
+          foundational tools, safety protocols, and harm-reduction practices to
+          responsibly engage in breathplay.
         image:
-          url: /images/EBI-4.jpg
-          altText: Placeholder Image
+          url: /images/EBI-5.jpg
+          altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
@@ -230,16 +231,15 @@ sections:
             iconPosition: right
             style: primary
             elementId: ''
-      - title: Basic Breathplay Practice
-        tagline: 'Lay the foundation for safe, ethical breathplay.'
+      - title: Level 1 Provider & Facilitator Training
+        tagline: A deep dive into the art of breathplay.
         subtitle: ''
         text: >
-          An essential workshop for adepts and practitioners seeking
-          foundational tools, safety protocols, and harm-reduction practices to
-          responsibly engage in breathplay.
+          A comprehensive, 6-week certification program for professionals ready
+          to master facilitation with skill, care, and confidence.
         image:
-          url: /images/EBI-5.jpg
-          altText: Placeholder image
+          url: /images/EBI-4.jpg
+          altText: Placeholder Image
           styles:
             self:
               borderRadius: x-large
