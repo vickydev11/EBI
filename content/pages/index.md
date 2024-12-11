@@ -40,7 +40,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: ' '
+      label: ' EBI'
       color: text-primary
       type: Badge
     elementId: ''
