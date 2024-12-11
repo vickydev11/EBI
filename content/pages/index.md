@@ -271,7 +271,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Social Media Management
+      text: Join the Movement
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
