@@ -130,7 +130,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Breathplay Techniques
+        title: Creating Boundaries & Trust
         subtitle: ''
         text: |
           *   Bagging
