@@ -1,6 +1,6 @@
 ---
 title: Level 1 Provider & Facilitator Training
-slug: careers
+slug: level-1-training
 sections:
   - title:
       text: A team that works closely together
