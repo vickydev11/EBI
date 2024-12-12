@@ -503,7 +503,6 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
           altText: Placeholder image
           styles:
             self:
