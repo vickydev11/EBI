@@ -67,10 +67,12 @@ sections:
       - type: FeaturedItem
         title: Defining Breathplay
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Understanding what breathplay is, its purpose, and its potential for
+          exploration.
+
+
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
