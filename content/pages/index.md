@@ -279,10 +279,9 @@ sections:
         type: FeaturedItem
         actions:
           - type: Button
-            label: Get started
+            label: Learn More
             altText: ''
-            url: >-
-              https://calendly.com/vickydevika/ethical-breathplay-training-onboarding-call
+            url: /basic-breathplay
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -314,10 +313,9 @@ sections:
         type: FeaturedItem
         actions:
           - type: Button
-            label: Get started
+            label: Learn More
             altText: ''
-            url: >-
-              https://calendly.com/vickydevika/ethical-breathplay-training-onboarding-call
+            url: /level-1-training
             showIcon: false
             icon: arrowRight
             iconPosition: right
