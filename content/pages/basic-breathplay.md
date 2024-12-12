@@ -150,30 +150,6 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-      - type: FeaturedItem
-        title: Building Your Practice
-        subtitle: ''
-        text: >+
-          * Becoming an accredited Ethical Breathplay Practitioner.
-
-          * Directory inclusion and ongoing support through the **Ethical
-          Breathplay Practitioner Association**.
-
-
-
-
-
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
     actions:
       - type: Button
         label: Enroll Now
