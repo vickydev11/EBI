@@ -160,16 +160,12 @@ sections:
           textAlign: center
     subtitle: ''
     text: >+
-      * **Format**: Live, online workshop via Zoom
+      *   **Format**: Live, online workshop via Zoom
 
-      * **Duration**: Single intensive session
+      *   **Duration**: Half a day (4 hours)
 
-      * **Outcome**: Gain foundational knowledge, tools, and confidence to
+      *   **Outcome**: Gain foundational knowledge, tools, and confidence to
       explore breathplay safely and responsibly.
-
-
-
-
 
     actions: []
     colors: bg-light-fg-dark
