@@ -609,7 +609,7 @@ slug: /basic-breathplay
 seo:
   type: Seo
   metaTitle: Basic Breathplay Practice Workshop
-  metaDescription: Master the Art of Ethical Breathplay
+  metaDescription: 'Build Confidence, Safety, and Trust in Your Breathplay Exploration'
   socialImage: /images/EBI-8.jpg
   metaTags: []
 ---
