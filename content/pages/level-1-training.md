@@ -457,8 +457,8 @@ sections:
       - type: FeaturedItem
         title: Ongoing Support
         subtitle: >-
-          Learn essential techniques to mitigate risks and ensure safety in
-          every session.
+          Access the Ethical Breathplay Practitioner Association for community
+          and continued growth.
         text: ''
         actions: []
         colors: bg-light-fg-dark
