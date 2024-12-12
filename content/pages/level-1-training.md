@@ -10,12 +10,18 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Master the Art of Ethical Breathplay
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+    text: >+
+      <div style="text-align: center">The **Level 1 Certification** is a 6-week
+      immersive training program designed to equip you with the knowledge,
+      techniques, and confidence to facilitate Ethical Breathplay sessions
+      safely, skillfully, and with integrity.Delivered through weekly
+      masterclasses on Zoom, this program blends **practical techniques**,
+      **somatic principles**, and **ethical frameworks** to help you build a
+      professional and trusted practice in Ethical Breathplay.
+
+
+      </div>
+
     actions:
       - label: See open positions
         url: /
