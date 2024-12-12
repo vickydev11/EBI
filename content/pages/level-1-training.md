@@ -227,9 +227,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Building Your Practice
-        subtitle: >-
-          Learn essential techniques to mitigate risks and ensure safety in
-          every session.
+        subtitle: ''
         text: ''
         actions: []
         colors: bg-neutral-fg-dark
