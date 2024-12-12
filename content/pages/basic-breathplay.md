@@ -117,7 +117,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Creating Boundaries & Trust
-        subtitle: ''
+        subtitle: 'Lay the groundwork for clear communication, consent, and care.'
         text: ''
         actions: []
         colors: bg-neutral-fg-dark
