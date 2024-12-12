@@ -499,7 +499,7 @@ sections:
           Experienced Dommes, kink educators, and sex workers looking to elevate
           their practice.
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify site.
         image:
