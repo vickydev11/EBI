@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Master the Art of Ethical Breathplay
+    subtitle: 'Build Confidence, Safety, and Trust in Your Breathplay Exploration'
     text: >+
       <div style="text-align: center">The **Level 1 Certification** is a 6-week
       immersive training program designed to equip you with the knowledge,
