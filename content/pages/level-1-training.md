@@ -333,8 +333,8 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: >-
-          transformative experiences for clients grounded in trust, integrity,
-          and care.
+          Offer transformative experiences for clients grounded in trust,
+          integrity, and care.
         text: ''
         image:
           type: ImageBlock
