@@ -313,10 +313,12 @@ sections:
       Ethical Breathplay education. By combining technical expertise, ethical
       grounding, and somatic awareness, this program will empower you to:
     text: >+
-      <div style="text-align: center">*   Facilitate Ethical Breathplay sessions
-      safely and professionally.*   Offer transformative experiences for clients
-      grounded in trust, integrity, and care.*   Stand out as an accredited
-      practitioner in a growing field.
+      <div style="text-align: center">*   *   Facilitate Ethical Breathplay
+      sessions safely and professionally.*   Offer transformative experiences
+      for clients grounded in trust, integrity, and care.*   Stand out as an
+      accredited practitioner in a growing field.
+
+
 
 
       </div>
