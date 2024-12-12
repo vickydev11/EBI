@@ -100,11 +100,9 @@ sections:
         title: Harm-Reduction Practices
         subtitle: ''
         text: >+
-          *   Navigating consent and communication with clarity and care.
 
-
-          *   Creating emotionally safe and responsible containers for
-          exploration.
+          Strategies to responsibly navigate breathplay for maximum safety and
+          trust.
 
         actions: []
         colors: bg-neutral-fg-dark
