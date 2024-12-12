@@ -55,33 +55,6 @@ sections:
       opacity: 100
       url: /images/abstract-background.svg
   - title:
-      text: Meet the team
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    people:
-      - content/data/person1.json
-      - content/data/person2.json
-      - content/data/person3.json
-      - content/data/person4.json
-      - content/data/person5.json
-      - content/data/person6.json
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedPeopleSection
-  - title:
       text: Open positions
       color: text-dark
       styles:
@@ -165,6 +138,33 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
+  - title:
+      text: Meet the team
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    people:
+      - content/data/person1.json
+      - content/data/person2.json
+      - content/data/person3.json
+      - content/data/person4.json
+      - content/data/person5.json
+      - content/data/person6.json
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: FeaturedPeopleSection
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
