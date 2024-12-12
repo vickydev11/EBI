@@ -589,7 +589,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: Enroll Now
         url: /
         icon: arrowRight
         iconPosition: right
