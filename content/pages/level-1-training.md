@@ -495,7 +495,9 @@ sections:
     subtitle: 'This program is ideal for:'
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: >-
+          Experienced Dommes, kink educators, and sex workers looking to elevate
+          their practice.
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
