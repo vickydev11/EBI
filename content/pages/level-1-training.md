@@ -312,20 +312,15 @@ sections:
       The Level 1 Provider & Facilitator Training sets the gold standard for
       Ethical Breathplay education. By combining technical expertise, ethical
       grounding, and somatic awareness, this program will empower you to:
-    text: >
-      Discover a sensual exploration of control, release, and embodied pleasure.
-      Ethical Breathplay is tantalizing yet intentional, exhilarating yet
-      grounded in safety and care. 
+    text: >+
+      <div style="text-align: center">*   Facilitate Ethical Breathplay sessions
+      safely and professionally.*   Offer transformative experiences for clients
+      grounded in trust, integrity, and care.*   Stand out as an accredited
+      practitioner in a growing field.
 
 
-      By merging somatic principles with the art of breathplay, this practice
-      becomes a pathway to connection, fulfillment, and the kind of satisfaction
-      that lingers long after the breath returns.
+      </div>
 
-
-      Ethical Breathpmay isn’t just about breath holding or breath control, it’s
-      about discovery & **pleasure:** for trust, intimacy, and the playful power
-      of what breath can do.
     actions: []
     media:
       type: ImageBlock
