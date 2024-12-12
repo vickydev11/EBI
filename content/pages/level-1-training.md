@@ -454,6 +454,23 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+      - type: FeaturedItem
+        title: Safety Protocols
+        subtitle: >-
+          Learn essential techniques to mitigate risks and ensure safety in
+          every session.
+        text: ''
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
     actions: []
     variant: two-col-grid
     colors: bg-neutral-fg-dark
