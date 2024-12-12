@@ -151,30 +151,6 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Facilitating with Integrity
-        subtitle: ''
-        text: >+
-          *   Holding space for clients with skill and care.
-
-          *   Presence versus dissociation
-
-          *   Mitigating risks, addressing challenges, and navigating unexpected
-          responses.
-
-          *   Dealing with extreme clients
-
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-      - type: FeaturedItem
         title: Building Your Practice
         subtitle: ''
         text: >+
