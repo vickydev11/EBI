@@ -608,7 +608,7 @@ sections:
 slug: /basic-breathplay
 seo:
   type: Seo
-  metaTitle: Level 1 Provider & Facilitator Training
+  metaTitle: Basic Breathplay Practice Workshop
   metaDescription: Master the Art of Ethical Breathplay
   socialImage: /images/EBI-8.jpg
   metaTags: []
