@@ -520,7 +520,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Two
+        title: Somatic practitioners and coaches ready to expand their toolkit.
         tagline: ''
         subtitle: This is the item subtitle
         text: |
