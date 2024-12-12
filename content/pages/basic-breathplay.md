@@ -235,8 +235,8 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: >-
-          Professionals seeking accreditation and recognition in a safe, ethical
-          framework.
+          Those seeking a deeper understanding of breathplay safety and harm
+          reduction.
         tagline: ''
         subtitle: ''
         text: ''
