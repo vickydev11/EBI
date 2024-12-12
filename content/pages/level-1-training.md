@@ -180,9 +180,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Breathplay Techniques
-        subtitle: >-
-          Learn essential techniques to mitigate risks and ensure safety in
-          every session.
+        subtitle: ''
         text: ''
         actions: []
         colors: bg-neutral-fg-dark
