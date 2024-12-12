@@ -522,7 +522,7 @@ sections:
       - type: FeaturedItem
         title: Somatic practitioners and coaches ready to expand their toolkit.
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first awesome Netlify site.
         image:
