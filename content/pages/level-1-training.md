@@ -138,20 +138,6 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-  - people: []
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedPeopleSection
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
