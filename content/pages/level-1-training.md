@@ -331,7 +331,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: Offer transformative experiences
+        title: Offer
         subtitle: 'for clients grounded in trust, integrity, and care.'
         text: ''
         image:
