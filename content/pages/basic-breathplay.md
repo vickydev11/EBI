@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Level 1 Provider & Facilitator Training
+      text: Basic Breathplay Practice Workshop
       color: text-dark
       styles:
         self:
