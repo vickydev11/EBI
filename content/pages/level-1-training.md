@@ -136,7 +136,13 @@ sections:
       - type: FeaturedItem
         title: Ethical Principles & Boundaries
         subtitle: ''
-        text: ''
+        text: >+
+          *   Navigating consent and communication with clarity and care.
+
+
+          *   Creating emotionally safe and responsible containers for
+          exploration.
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
