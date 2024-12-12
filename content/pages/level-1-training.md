@@ -138,14 +138,7 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-  - title:
-      text: Meet the team
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    people:
+  - people:
       - content/data/person1.json
       - content/data/person2.json
       - content/data/person3.json
