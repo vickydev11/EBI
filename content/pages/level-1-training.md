@@ -251,7 +251,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Apply now
+        label: Enroll Now
         url: /
         icon: arrowRight
         iconPosition: right
