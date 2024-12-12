@@ -315,8 +315,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: >-
-              https://calendly.com/vickydevika/ethical-breathplay-training-onboarding-call
+            url: /
             showIcon: false
             icon: arrowRight
             iconPosition: right
