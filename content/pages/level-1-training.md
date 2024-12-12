@@ -139,7 +139,6 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - people:
-      - content/data/person5.json
       - content/data/person6.json
     variant: three-col-grid
     colors: bg-light-fg-dark
