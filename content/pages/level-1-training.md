@@ -159,14 +159,15 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: ' Somatic & Transformational Techniques'
+        title: Breathplay Techniques
         subtitle: ''
-        text: >
-          *   Understanding the vagus nerve, the autonomic nervous system, and
-          how breathplay intersects with breathwork practices.
-
-          *   Using breathplay as a tool for nervous system regulation, sensual
-          exploration, and cathartic release.
+        text: |
+          *   Bagging
+          *   Membranes
+          *   Hoods & Masks
+          *   Smothering
+          *   Basic Rebreather Circuits
+          *   Vacuum Bondage
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -179,15 +180,14 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Breathplay Techniques
+        title: ' Somatic & Transformational Techniques'
         subtitle: ''
-        text: |
-          *   Bagging
-          *   Membranes
-          *   Hoods & Masks
-          *   Smothering
-          *   Basic Rebreather Circuits
-          *   Vacuum Bondage
+        text: >
+          *   Understanding the vagus nerve, the autonomic nervous system, and
+          how breathplay intersects with breathwork practices.
+
+          *   Using breathplay as a tool for nervous system regulation, sensual
+          exploration, and cathartic release.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
