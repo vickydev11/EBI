@@ -303,7 +303,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: What Is Ethical Breathplay?
+      text: Why This Program?
       color: text-dark
       styles:
         self:
