@@ -314,7 +314,7 @@ sections:
       grounding, and somatic awareness, this program will empower you to:
     items:
       - type: FeaturedItem
-        title: Facilitate
+        title: ''
         subtitle: Ethical Breathplay sessions safely and professionally.
         text: ''
         actions: []
