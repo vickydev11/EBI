@@ -57,7 +57,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: What You’ll Learn
       color: text-dark
       styles:
         self:
