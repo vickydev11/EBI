@@ -332,9 +332,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Offer transformative experiences
-        subtitle: >-
-          transformative experiences for clients grounded in trust, integrity,
-          and care.
+        subtitle: 'for clients grounded in trust, integrity, and care.'
         text: ''
         image:
           type: ImageBlock
