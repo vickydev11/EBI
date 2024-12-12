@@ -134,7 +134,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Safety Protocols
+        title: Ethical Principles & Boundaries
         subtitle: >-
           Learn essential techniques to mitigate risks and ensure safety in
           every session.
