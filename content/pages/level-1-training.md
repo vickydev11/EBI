@@ -583,10 +583,7 @@ sections:
       text: Ready to Master Ethical Breathplay?
       color: text-dark
     subtitle: ''
-    text: >+
-      Take the first step toward accreditation and join a community of
-      practitioners committed to safety, skill, and sensual exploration.
-
+    text: ''
     actions:
       - type: Button
         label: Enroll Now
