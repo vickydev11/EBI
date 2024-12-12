@@ -410,8 +410,7 @@ sections:
         title: 6 Weeks of In-Depth Training
         tagline: ''
         subtitle: 'Live, interactive masterclasses with expert instruction.'
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: ''
         actions: []
         colors: bg-light-fg-dark
         styles:
