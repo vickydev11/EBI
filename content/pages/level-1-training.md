@@ -333,7 +333,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: Why This Program?
       color: text-dark
       styles:
         self:
