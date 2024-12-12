@@ -610,6 +610,5 @@ seo:
   type: Seo
   metaTitle: Basic Breathplay Practice Workshop
   metaDescription: 'Build Confidence, Safety, and Trust in Your Breathplay Exploration'
-  socialImage: /images/EBI-8.jpg
   metaTags: []
 ---
