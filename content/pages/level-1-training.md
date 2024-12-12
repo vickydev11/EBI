@@ -324,13 +324,6 @@ sections:
       <div style="text-align: center">Stand out as an accredited practitioner in
       a growing field.</div>
     actions: []
-    media:
-      type: ImageBlock
-      altText: Image alt text placeholder
-      elementId: ''
-      styles:
-        self:
-          borderRadius: medium
     colors: bg-light-fg-dark
     styles:
       self:
