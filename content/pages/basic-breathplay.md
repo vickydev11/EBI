@@ -82,12 +82,8 @@ sections:
         subtitle: >-
           Learn practical tools to mitigate risks and prioritize safety at every
           step.
-        text: >+
-          *   Learn essential techniques to mitigate risks and ensure safety in
-          every session.
+        text: |+
 
-
-          *   Bondage best-practices.
 
         actions: []
         colors: bg-neutral-fg-dark
