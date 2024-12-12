@@ -160,7 +160,7 @@ sections:
     type: FeaturedItemsSection
 seo:
   metaTitle: Level 1 Provider & Facilitator Training
-  metaDescription: ''
+  metaDescription: Master the Art of Ethical Breathplay
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
