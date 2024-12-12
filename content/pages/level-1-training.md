@@ -119,7 +119,13 @@ sections:
       - type: FeaturedItem
         title: Safety Protocols
         subtitle: ''
-        text: ''
+        text: >+
+          *   Learn essential techniques to mitigate risks and ensure safety in
+          every session.
+
+
+          *   Bondage best-practices.
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
