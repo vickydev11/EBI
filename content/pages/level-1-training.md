@@ -583,9 +583,10 @@ sections:
       text: Ready to Master Ethical Breathplay?
       color: text-dark
     subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      Take the first step toward accreditation and join a community of
+      practitioners committed to safety, skill, and sensual exploration.
+
     actions:
       - type: Button
         label: Get started
