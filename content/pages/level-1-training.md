@@ -14,10 +14,14 @@ sections:
       <div style="text-align: center">The **Level 1 Certification** is a 6-week
       immersive training program designed to equip you with the knowledge,
       techniques, and confidence to facilitate Ethical Breathplay sessions
-      safely, skillfully, and with integrity.Delivered through weekly
-      masterclasses on Zoom, this program blends **practical techniques**,
-      **somatic principles**, and **ethical frameworks** to help you build a
-      professional and trusted practice in Ethical Breathplay.</div>
+      safely, skillfully, and with integrity.</div>
+
+      <div style="text-align: center">
+
+      Delivered through weekly masterclasses on Zoom, this program blends
+      **practical techniques**, **somatic principles**, and **ethical
+      frameworks** to help you build a professional and trusted practice in
+      Ethical Breathplay.</div>
 
     actions:
       - label: See open positions
