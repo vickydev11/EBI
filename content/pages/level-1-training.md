@@ -354,7 +354,7 @@ sections:
             textAlign: left
             justifyContent: center
       - type: FeaturedItem
-        title: Stand out
+        title: ''
         subtitle: as an accredited practitioner in a growing field.
         text: ''
         image:
