@@ -425,7 +425,7 @@ sections:
       - type: FeaturedItem
         title: Accreditation & Recognition
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Earn your place as an Accredited Ethical Breathplay Practitioner.
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         actions: []
