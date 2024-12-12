@@ -109,7 +109,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Ethical Principles & Boundaries
+        title: Harm-Reduction Practices
         subtitle: ''
         text: >+
           *   Navigating consent and communication with clarity and care.
