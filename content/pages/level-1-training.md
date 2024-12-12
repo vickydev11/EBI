@@ -118,9 +118,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Safety Protocols
-        subtitle: >-
-          Learn essential techniques to mitigate risks and ensure safety in
-          every session.
+        subtitle: ''
         text: ''
         actions: []
         colors: bg-neutral-fg-dark
