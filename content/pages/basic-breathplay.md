@@ -63,19 +63,7 @@ sections:
         subtitle: >-
           Explore how the body responds to breath restriction, including
           hypercapnia (CO₂ increase) and hypoxia (oxygen decrease).
-        text: |+
-          *   *Lung volume / Ling capacity*
-
-          *   Understanding the breath
-
-          *   Diaphragm & Vagus Nerve
-
-          *   *Hypercapnia* (increased CO₂)
-
-          *   *Hypoxia* (reduced oxygen)
-
-
-
+        text: ''
         actions: []
         colors: bg-neutral-fg-dark
         styles:
