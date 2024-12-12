@@ -543,7 +543,9 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Three
+        title: >-
+          Professionals seeking accreditation and recognition in a safe, ethical
+          framework.
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
