@@ -203,16 +203,14 @@ sections:
         title: Facilitating with Integrity
         subtitle: ''
         text: >+
-          *  Holding space for clients with skill and care.
+          *   Holding space for clients with skill and care.
 
-          *  Mitigating risks, addressing challenges, and navigating unexpected
+          *   Presence versus dissociation
+
+          *   Mitigating risks, addressing challenges, and navigating unexpected
           responses.
 
-          *  Dealing with extreme clients
-
-
-
-
+          *   Dealing with extreme clients
 
         actions: []
         colors: bg-neutral-fg-dark
