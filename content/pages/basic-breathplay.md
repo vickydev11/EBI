@@ -118,13 +118,7 @@ sections:
       - type: FeaturedItem
         title: Creating Boundaries & Trust
         subtitle: ''
-        text: |
-          *   Bagging
-          *   Membranes
-          *   Hoods & Masks
-          *   Smothering
-          *   Basic Rebreather Circuits
-          *   Vacuum Bondage
+        text: ''
         actions: []
         colors: bg-neutral-fg-dark
         styles:
