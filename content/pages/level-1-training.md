@@ -314,8 +314,8 @@ sections:
       grounding, and somatic awareness, this program will empower you to:
     items:
       - type: FeaturedItem
-        title: Facilitate
-        subtitle: Ethical Breathplay sessions safely and professionally.
+        title: ''
+        subtitle: Facilitate Ethical Breathplay sessions safely and professionally.
         text: ''
         actions: []
         colors: bg-neutralAlt-fg-dark
@@ -331,10 +331,10 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: Offer
+        title: ''
         subtitle: >-
-          transformative experiences for clients grounded in trust, integrity,
-          and care.
+          Offer transformative experiences for clients grounded in trust,
+          integrity, and care.
         text: ''
         image:
           type: ImageBlock
@@ -354,8 +354,8 @@ sections:
             textAlign: left
             justifyContent: center
       - type: FeaturedItem
-        title: Stand out
-        subtitle: as an accredited practitioner in a growing field.
+        title: ''
+        subtitle: Stand out as an accredited practitioner in a growing field.
         text: ''
         image:
           type: ImageBlock
