@@ -212,7 +212,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Somatic practitioners and coaches ready to expand their toolkit.
+        title: Practitioners looking to build confidence and foundational skills.
         tagline: ''
         subtitle: ''
         text: ''
