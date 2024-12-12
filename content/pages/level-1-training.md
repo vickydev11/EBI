@@ -487,7 +487,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Is This Training Right for You?
       color: text-primary
       styles:
         self:
