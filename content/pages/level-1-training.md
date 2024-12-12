@@ -24,7 +24,7 @@ sections:
       Ethical Breathplay.</div>
 
     actions:
-      - label: See open positions
+      - label: Enroll Now
         url: /
         icon: arrowRight
         iconPosition: right
