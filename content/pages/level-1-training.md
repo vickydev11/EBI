@@ -455,7 +455,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Safety Protocols
+        title: Ongoing Support
         subtitle: >-
           Learn essential techniques to mitigate risks and ensure safety in
           every session.
