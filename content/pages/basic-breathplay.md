@@ -182,7 +182,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Is This Training Right for You?
+      text: Who Is This For?
       color: text-primary
       styles:
         self:
