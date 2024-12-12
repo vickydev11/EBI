@@ -409,7 +409,7 @@ sections:
       - type: FeaturedItem
         title: 6 Weeks of In-Depth Training
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: 'Live, interactive masterclasses with expert instruction.'
         text: |
           Follow the tutorial to build your first Netlify Create site.
         actions: []
