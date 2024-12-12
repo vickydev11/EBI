@@ -271,9 +271,7 @@ sections:
       type: TitleBlock
       text: Ready to engage in breathplay with confidence and care?
       color: text-dark
-    subtitle: >-
-      Take the first step toward accreditation and join a community of
-      practitioners committed to safety, skill, and sensual exploration.
+    subtitle: ''
     text: |
       Workshop cost: 197$
     actions:
