@@ -53,7 +53,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/abstract-background.svg
+      url: /images/beautiful-woman-plastic-wrap-wallpaper.jpg
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
