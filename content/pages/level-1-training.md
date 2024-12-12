@@ -202,7 +202,18 @@ sections:
       - type: FeaturedItem
         title: Facilitating with Integrity
         subtitle: ''
-        text: ''
+        text: >+
+          *  Holding space for clients with skill and care.
+
+          *  Mitigating risks, addressing challenges, and navigating unexpected
+          responses.
+
+          *  Dealing with extreme clients
+
+
+
+
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
