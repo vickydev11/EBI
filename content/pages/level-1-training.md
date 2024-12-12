@@ -309,7 +309,12 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    text: >+
+    text: >
+      <div style="text-align: center">The Level 1 Provider & Facilitator
+      Training sets the gold standard for Ethical Breathplay education. By
+      combining technical expertise, ethical grounding, and somatic awareness,
+      this program will empower you to:</div>
+
       <div style="text-align: center">Facilitate Ethical Breathplay sessions
       safely and professionally.</div>
 
@@ -318,7 +323,6 @@ sections:
 
       <div style="text-align: center">Stand out as an accredited practitioner in
       a growing field.</div>
-
     actions: []
     media:
       type: ImageBlock
