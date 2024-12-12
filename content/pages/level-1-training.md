@@ -587,6 +587,7 @@ sections:
       practitioners committed to safety, skill, and sensual exploration.
     text: |
       Tuition and membership cost: 1500$
+      Next Cohort: January 2025
     actions:
       - type: Button
         label: Enroll Now
