@@ -53,7 +53,6 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/EBI-3.jpg
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
