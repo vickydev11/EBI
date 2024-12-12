@@ -293,14 +293,6 @@ sections:
       about discovery & **pleasure:** for trust, intimacy, and the playful power
       of what breath can do.
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/beautiful-woman-plastic-wrap-wallpaper.jpg
-      altText: Image alt text placeholder
-      elementId: ''
-      styles:
-        self:
-          borderRadius: medium
     colors: bg-light-fg-dark
     styles:
       self:
