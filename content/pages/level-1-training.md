@@ -161,7 +161,12 @@ sections:
       - type: FeaturedItem
         title: ' Somatic & Transformational Techniques'
         subtitle: ''
-        text: ''
+        text: >
+          *   Understanding the vagus nerve, the autonomic nervous system, and
+          how breathplay intersects with breathwork practices.
+
+          *   Using breathplay as a tool for nervous system regulation, sensual
+          exploration, and cathartic release.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
