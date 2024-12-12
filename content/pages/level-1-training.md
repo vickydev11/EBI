@@ -90,10 +90,19 @@ sections:
       - type: FeaturedItem
         title: Breathplay Physiology
         subtitle: Dive into the body’s response to breathplay
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          *   *Lung volume / Ling capacity*
+
+          *   Understanding the breath
+
+          *   Diaphragm & Vagus Nerve
+
+          *   *Hypercapnia* (increased CO₂)
+
+          *   *Hypoxia* (reduced oxygen)
+
+
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
