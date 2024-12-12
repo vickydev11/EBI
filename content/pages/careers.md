@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: Level 1 Provider & Facilitator Training
 slug: careers
 sections:
   - title:
