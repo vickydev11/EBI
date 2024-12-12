@@ -441,7 +441,7 @@ sections:
       - type: FeaturedItem
         title: Directory Inclusion
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Be featured in the Ethical Breathplay Directory for client visibility.
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
         actions: []
