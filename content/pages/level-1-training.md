@@ -585,7 +585,8 @@ sections:
     subtitle: >-
       Take the first step toward accreditation and join a community of
       practitioners committed to safety, skill, and sensual exploration.
-    text: ''
+    text: |
+      Tuition and membership cost: 1500$
     actions:
       - type: Button
         label: Enroll Now
