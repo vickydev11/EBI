@@ -317,14 +317,6 @@ sections:
         title: Facilitate
         subtitle: Ethical Breathplay sessions safely and professionally.
         text: ''
-        image:
-          type: ImageBlock
-          url: /images/icon1.svg
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
