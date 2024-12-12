@@ -187,7 +187,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: 'This program is ideal for:'
+    subtitle: 'This workshop is perfect for:'
     items:
       - type: FeaturedItem
         title: >-
