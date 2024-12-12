@@ -374,7 +374,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Get started
+        label: Enroll
         altText: ''
         url: /
         showIcon: false
