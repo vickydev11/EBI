@@ -59,29 +59,6 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Defining Breathplay
-        subtitle: ''
-        text: |+
-          *   Understanding what breathplay is what it isn't.
-
-          *   Its purpose, and its potential for exploration.
-
-          *   Addressing myths & misconceptions with integrity.
-
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            textAlign: left
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
         title: Breathplay Physiology
         subtitle: Dive into the body’s response to breathplay
         text: |+
