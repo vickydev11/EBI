@@ -332,7 +332,9 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Offer transformative experiences
-        subtitle: The Job Stuff
+        subtitle: >-
+          transformative experiences for clients grounded in trust, integrity,
+          and care.
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
