@@ -272,7 +272,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: What Is Ethical Breathplay?
+      text: Program Details
       color: text-dark
       styles:
         self:
