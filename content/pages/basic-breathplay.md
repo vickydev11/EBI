@@ -160,17 +160,12 @@ sections:
           textAlign: center
     subtitle: ''
     text: >+
-      *   **Format**: Weekly live masterclasses (via Zoom)
+      *   *   **Format**: Live, online workshop via Zoom*   **Duration**: Single
+      intensive session*   **Outcome**: Gain foundational knowledge, tools, and
+      confidence to explore breathplay safely and responsibly.
 
 
-      *   **Duration**: 6 weeks
 
-
-      *   **Location**: Online
-
-
-      *   **Accreditation**: Earn your Level 1 Certification upon successful
-      completion
 
 
     actions: []
