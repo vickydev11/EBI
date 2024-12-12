@@ -407,7 +407,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: 6 Weeks of In-Depth Training
         tagline: ''
         subtitle: This is the item subtitle
         text: |
