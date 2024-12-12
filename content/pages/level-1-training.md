@@ -308,10 +308,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: >-
-      The Level 1 Provider & Facilitator Training sets the gold standard for
-      Ethical Breathplay education. By combining technical expertise, ethical
-      grounding, and somatic awareness, this program will empower you to:
+    subtitle: ''
     text: >+
       *   Facilitate Ethical Breathplay sessions safely and professionally.
 
