@@ -153,7 +153,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Program Details
+      text: Workshop Details
       color: text-dark
       styles:
         self:
