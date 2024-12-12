@@ -66,7 +66,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Defining Breathplay
-        subtitle: Sales
+        subtitle: ''
         text: >+
           Understanding what breathplay is, its purpose, and its potential for
           exploration.
