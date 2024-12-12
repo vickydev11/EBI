@@ -300,33 +300,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: ''
-    text: >+
-      *   Facilitate Ethical Breathplay sessions safely and professionally.
-
-
-      *   Offer transformative experiences for clients grounded in trust,
-      integrity, and care.
-
-
-      *   Stand out as an accredited practitioner in a growing field.
-
-    actions: []
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
