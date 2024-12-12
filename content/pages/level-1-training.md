@@ -423,7 +423,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item Two
+        title: Accreditation & Recognition
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
