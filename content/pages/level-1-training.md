@@ -523,8 +523,7 @@ sections:
         title: Somatic practitioners and coaches ready to expand their toolkit.
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
