@@ -60,7 +60,9 @@ sections:
     items:
       - type: FeaturedItem
         title: Breathplay Physiology
-        subtitle: Dive into the body’s response to breathplay
+        subtitle: >-
+          Explore how the body responds to breath restriction, including
+          hypercapnia (CO₂ increase) and hypoxia (oxygen decrease).
         text: |+
           *   *Lung volume / Ling capacity*
 
