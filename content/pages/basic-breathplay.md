@@ -79,7 +79,9 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Safety Protocols
-        subtitle: ''
+        subtitle: >-
+          Learn practical tools to mitigate risks and prioritize safety at every
+          step.
         text: >+
           *   Learn essential techniques to mitigate risks and ensure safety in
           every session.
