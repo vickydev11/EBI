@@ -67,11 +67,12 @@ sections:
       - type: FeaturedItem
         title: Defining Breathplay
         subtitle: ''
-        text: >+
-          Understanding what breathplay is, its purpose, and its potential for
-          exploration.
+        text: |+
+          Understanding what breathplay is what it isn't. 
 
+          Its purpose, and its potential for exploration.
 
+          Addressing myths & misconceptions with integrity.
 
         actions: []
         colors: bg-neutral-fg-dark
