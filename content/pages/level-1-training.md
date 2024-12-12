@@ -3,7 +3,7 @@ title: Level 1 Provider & Facilitator Training
 slug: level-1-training
 sections:
   - title:
-      text: A team that works closely together
+      text: Master the Art of Ethical Breathplay
       color: text-dark
       styles:
         self:
