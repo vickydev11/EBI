@@ -335,10 +335,7 @@ sections:
         subtitle: >-
           transformative experiences for clients grounded in trust, integrity,
           and care.
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           type: ImageBlock
           altText: Featured icon two
