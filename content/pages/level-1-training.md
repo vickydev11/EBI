@@ -152,6 +152,10 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
 seo:
   metaTitle: Level 1 Provider & Facilitator Training
   metaDescription: Master the Art of Ethical Breathplay
