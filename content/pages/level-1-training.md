@@ -315,7 +315,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Facilitate
-        subtitle: Numbers Done
+        subtitle: ''
         text: |+
           Ethical Breathplay sessions safely and professionally.
 
