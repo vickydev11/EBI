@@ -278,20 +278,20 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    text: >
-      Discover a sensual exploration of control, release, and embodied pleasure.
-      Ethical Breathplay is tantalizing yet intentional, exhilarating yet
-      grounded in safety and care. 
+    text: >+
+      *   **Format**: Weekly live masterclasses (via Zoom)
 
 
-      By merging somatic principles with the art of breathplay, this practice
-      becomes a pathway to connection, fulfillment, and the kind of satisfaction
-      that lingers long after the breath returns.
+      *   **Duration**: 6 weeks
 
 
-      Ethical Breathpmay isn’t just about breath holding or breath control, it’s
-      about discovery & **pleasure:** for trust, intimacy, and the playful power
-      of what breath can do.
+      *   **Location**: Online
+
+
+      *   **Accreditation**: Earn your Level 1 Certification upon successful
+      completion
+
+
     actions: []
     colors: bg-light-fg-dark
     styles:
