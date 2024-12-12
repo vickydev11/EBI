@@ -273,7 +273,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Ready to Master Ethical Breathplay?
+      text: Ready to engage in breathplay with confidence and care?
       color: text-dark
     subtitle: >-
       Take the first step toward accreditation and join a community of
