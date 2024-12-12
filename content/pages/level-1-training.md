@@ -355,7 +355,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: ''
-        subtitle: as an accredited practitioner in a growing field.
+        subtitle: Stand out as an accredited practitioner in a growing field.
         text: ''
         image:
           type: ImageBlock
