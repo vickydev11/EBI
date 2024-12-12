@@ -315,7 +315,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: Ethical Breathplay sessions safely and professionally.
+        subtitle: Facilitate Ethical Breathplay sessions safely and professionally.
         text: ''
         actions: []
         colors: bg-neutralAlt-fg-dark
