@@ -17,10 +17,7 @@ sections:
       safely, skillfully, and with integrity.Delivered through weekly
       masterclasses on Zoom, this program blends **practical techniques**,
       **somatic principles**, and **ethical frameworks** to help you build a
-      professional and trusted practice in Ethical Breathplay.
-
-
-      </div>
+      professional and trusted practice in Ethical Breathplay.</div>
 
     actions:
       - label: See open positions
