@@ -190,9 +190,7 @@ sections:
     subtitle: 'This workshop is perfect for:'
     items:
       - type: FeaturedItem
-        title: >-
-          Experienced Dommes, kink educators, and sex workers looking to elevate
-          their practice.
+        title: Adepts exploring breathplay for personal growth and safe exploration.
         tagline: ''
         subtitle: ''
         text: ''
