@@ -525,7 +525,6 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
           altText: Placeholder image
           styles:
             self:
