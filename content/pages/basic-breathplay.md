@@ -286,10 +286,6 @@ sections:
       type: ImageBlock
       url: /images/hero2.svg
       altText: Fun feature preview
-    badge:
-      type: Badge
-      label: 'Next Cohort: January 2025'
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
