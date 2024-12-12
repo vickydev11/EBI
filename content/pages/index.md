@@ -315,7 +315,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: /
+            url: /level-1-training
             showIcon: false
             icon: arrowRight
             iconPosition: right
