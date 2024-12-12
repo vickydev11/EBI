@@ -326,7 +326,6 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/beautiful-woman-plastic-wrap-wallpaper.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
