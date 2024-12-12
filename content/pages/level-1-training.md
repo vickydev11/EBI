@@ -160,7 +160,7 @@ sections:
     type: FeaturedItemsSection
 seo:
   metaTitle: Level 1 Provider & Facilitator Training
-  metaDescription: This is the careers page built with Netlify Create.
+  metaDescription: ''
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
