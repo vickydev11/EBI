@@ -53,7 +53,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/beautiful-woman-plastic-wrap-wallpaper.jpg
+      url: /images/EBI-3.jpg
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
