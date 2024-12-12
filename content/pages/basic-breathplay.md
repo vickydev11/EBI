@@ -279,7 +279,7 @@ sections:
       Take the first step toward accreditation and join a community of
       practitioners committed to safety, skill, and sensual exploration.
     text: |
-      Tuition and membership cost: 1500$
+      Workshop cost: 197$
     actions:
       - type: Button
         label: Enroll Now
