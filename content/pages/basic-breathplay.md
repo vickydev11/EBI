@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Level 1 Provider & Facilitator Training
+title: Basic Breathplay Practice Workshop
 sections:
   - type: GenericSection
     title:
