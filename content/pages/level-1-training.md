@@ -426,8 +426,7 @@ sections:
         title: Accreditation & Recognition
         tagline: ''
         subtitle: Earn your place as an Accredited Ethical Breathplay Practitioner.
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: ''
         actions: []
         colors: bg-light-fg-dark
         styles:
