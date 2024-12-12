@@ -181,7 +181,13 @@ sections:
       - type: FeaturedItem
         title: Breathplay Techniques
         subtitle: ''
-        text: ''
+        text: |
+          *   Bagging
+          *   Membranes
+          *   Hoods & Masks
+          *   Smothering
+          *   Basic Rebreather Circuits
+          *   Vacuum Bondage
         actions: []
         colors: bg-neutral-fg-dark
         styles:
