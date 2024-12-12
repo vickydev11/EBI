@@ -603,6 +603,10 @@ sections:
     styles:
       self:
         alignItems: center
+    badge:
+      type: Badge
+      label: 'Next Cohort: January 2025'
+      color: text-primary
 seo:
   metaTitle: Level 1 Provider & Facilitator Training
   metaDescription: Master the Art of Ethical Breathplay
