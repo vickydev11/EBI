@@ -303,7 +303,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Why This Program?
+      text: ''
       color: text-dark
       styles:
         self:
