@@ -27,7 +27,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/EBI-1.jpg
+      url: /images/EBI-10.jpg
       altText: ''
       elementId: ''
       type: ImageBlock
@@ -180,7 +180,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/EBI-6.jpg
+          url: /images/EBI-13.jpg
           altText: ''
           elementId: ''
           styles:
@@ -211,7 +211,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/EBI-7.jpg
+          url: /images/EBI-12.jpg
           altText: ''
           elementId: ''
           styles:
