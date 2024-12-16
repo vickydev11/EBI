@@ -180,7 +180,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/EBI-7.jpg
+          url: /images/EBI-13.jpg
           altText: ''
           elementId: ''
           styles:
