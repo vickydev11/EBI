@@ -203,16 +203,14 @@ sections:
         title: Facilitating with Integrity
         subtitle: ''
         text: >+
-          *  Holding space for clients with skill and care.
+          *   Holding space for clients with skill and care.
 
-          *  Mitigating risks, addressing challenges, and navigating unexpected
+          *   Presence versus dissociation
+
+          *   Mitigating risks, addressing challenges, and navigating unexpected
           responses.
 
-          *  Dealing with extreme clients
-
-
-
-
+          *   Dealing with extreme clients
 
         actions: []
         colors: bg-neutral-fg-dark
@@ -585,8 +583,7 @@ sections:
     subtitle: >-
       Take the first step toward accreditation and join a community of
       practitioners committed to safety, skill, and sensual exploration.
-    text: |
-      Tuition and membership cost: 1500$
+    text: ''
     actions:
       - type: Button
         label: Enroll Now
@@ -597,7 +594,7 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/EBI-8.jpg
       altText: Fun feature preview
     colors: bg-light-fg-dark
     styles:
