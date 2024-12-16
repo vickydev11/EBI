@@ -272,8 +272,7 @@ sections:
       text: Ready to engage in breathplay with confidence and care?
       color: text-dark
     subtitle: ''
-    text: |
-      Workshop cost: 197$
+    text: ''
     actions:
       - type: Button
         label: Enroll Now
