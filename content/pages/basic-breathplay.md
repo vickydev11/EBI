@@ -272,8 +272,7 @@ sections:
       text: Ready to engage in breathplay with confidence and care?
       color: text-dark
     subtitle: ''
-    text: |
-      Workshop cost: 197$
+    text: ''
     actions:
       - type: Button
         label: Enroll Now
@@ -284,7 +283,6 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
       altText: Fun feature preview
     colors: bg-light-fg-dark
     styles:
