@@ -27,7 +27,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/EBI-9.jpg
+      url: /images/EBI-10.jpg
       altText: ''
       elementId: ''
       type: ImageBlock
