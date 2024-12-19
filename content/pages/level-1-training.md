@@ -24,9 +24,8 @@ sections:
       Ethical Breathplay.</div>
 
     actions:
-      - label: Enroll Now
-        url: >-
-          https://calendly.com/vickydevika/ethical-breathplay-training-onboarding-call
+      - label: Apply Now
+        url: 'https://forms.gle/yQ2USHCjRtyqopBK7'
         icon: arrowRight
         iconPosition: right
         style: primary
@@ -586,9 +585,8 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Enroll Now
-        url: >-
-          https://calendly.com/vickydevika/ethical-breathplay-training-onboarding-call
+        label: Apply Now
+        url: 'https://forms.gle/yQ2USHCjRtyqopBK7'
         icon: arrowRight
         iconPosition: right
         style: secondary
