@@ -48,17 +48,6 @@
         },
         {
             "type": "Link",
-            "label": "Instagram",
-            "altText": "Instagram",
-            "url": "https://instagram.com/ethicalbreathplay",
-            "showIcon": true,
-            "icon": "instagram",
-            "iconPosition": "left",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
-            "type": "Link",
             "altText": "",
             "url": "https://instagram.com/ethicalbreathplay",
             "showIcon": true,
