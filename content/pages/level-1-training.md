@@ -248,9 +248,8 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Enroll Now
-        url: >-
-          https://calendly.com/vickydevika/ethical-breathplay-training-onboarding-call
+        label: Apply Now
+        url: 'https://forms.gle/yQ2USHCjRtyqopBK7'
         icon: arrowRight
         iconPosition: right
         style: primary
@@ -371,10 +370,9 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Enroll
+        label: Apply Now
         altText: ''
-        url: >-
-          https://calendly.com/vickydevika/ethical-breathplay-training-onboarding-call
+        url: 'https://forms.gle/yQ2USHCjRtyqopBK7'
         showIcon: false
         icon: arrowRight
         iconPosition: right
