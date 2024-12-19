@@ -59,7 +59,7 @@
         {
             "type": "Link",
             "altText": "YouTube",
-            "url": "youtube.com/@ethicalbreathplay",
+            "url": "https://youtube.com/@ethicalbreathplay",
             "showIcon": true,
             "icon": "youtube",
             "iconPosition": "left",
