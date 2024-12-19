@@ -381,5 +381,10 @@ seo:
   metaDescription: 'Breathwork redefined: sensual, playful, and deeply fulfilling.'
   socialImage: /images/EBI-5.jpg
   type: Seo
+  addTitleSuffix: true
+  metaTags:
+    - type: MetaTag
+      property: 'og:title'
+      content: Ethical Breathplay Institute by Vicky Devika
 type: PageLayout
 ---
