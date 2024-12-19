@@ -172,7 +172,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Destigmatizing
+      - title: Destigmatize
         subtitle: breathplay as a dangerous or irresponsible practice.
         text: >+
           We challenge misconceptions and show that breathplay, when practiced
