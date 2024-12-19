@@ -275,8 +275,7 @@ sections:
     actions:
       - type: Button
         label: Join the waiting list
-        url: >-
-          https://calendly.com/vickydevika/ethical-breathplay-training-onboarding-call
+        url: 'https://forms.gle/rESgQMBAMjgGHmj57'
         icon: arrowRight
         iconPosition: right
         style: secondary
