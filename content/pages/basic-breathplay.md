@@ -269,7 +269,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Ready to engage in breathplay with confidence and care?
+      text: This workshop will be available in 2025.
       color: text-dark
     subtitle: ''
     text: ''
