@@ -144,7 +144,7 @@ sections:
     subtitle: 'At the Ethical Breathplay Institute, we are committed to:'
     items:
       - type: FeaturedItem
-        title: Legitimizing
+        title: Legitimize
         subtitle: 'breathplay as a safe, effective somatic modality.'
         text: >+
           We elevate breathplay as a recognized somatic modality, rooted in
