@@ -35,7 +35,38 @@
             "elementId": ""
         }
     ],
-    "secondaryLinks": [],
+    "secondaryLinks": [
+        {
+            "type": "Link",
+            "altText": "Facebook",
+            "url": "https://www.facebook.com/ethicalbreathplay/",
+            "showIcon": true,
+            "icon": "facebook",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
+            "altText": "",
+            "url": "https://instagram.com/ethicalbreathplay",
+            "showIcon": true,
+            "icon": "instagram",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
+            "altText": "YouTube",
+            "url": "https://youtube.com/@ethicalbreathplay",
+            "showIcon": true,
+            "icon": "youtube",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
+        }
+    ],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
     "type": "Header"
