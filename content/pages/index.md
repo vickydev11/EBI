@@ -358,8 +358,7 @@ sections:
       that is as **playful** as it is **profound**.
     actions:
       - label: Apply For Training
-        url: >-
-          https://calendly.com/vickydevika/ethical-breathplay-training-onboarding-call
+        url: 'https://forms.gle/yQ2USHCjRtyqopBK7'
         icon: arrowRight
         iconPosition: right
         style: secondary
