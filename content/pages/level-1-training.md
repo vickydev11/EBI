@@ -370,7 +370,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Enroll
+        label: Apply Now
         altText: ''
         url: >-
           https://calendly.com/vickydevika/ethical-breathplay-training-onboarding-call
