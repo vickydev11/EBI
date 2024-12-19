@@ -200,7 +200,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Educating
+      - title: Educate
         subtitle: >-
           professionals and the public through rigorous, high-quality training
           programs.
