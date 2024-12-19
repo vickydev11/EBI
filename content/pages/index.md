@@ -357,7 +357,7 @@ sections:
       about Ethical Breathplay, you’re in the right place to discover a practice
       that is as **playful** as it is **profound**.
     actions:
-      - label: Sign Up For Training
+      - label: Apply For Training
         url: >-
           https://calendly.com/vickydevika/ethical-breathplay-training-onboarding-call
         icon: arrowRight
