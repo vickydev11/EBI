@@ -385,5 +385,6 @@ seo:
   metaTags:
     - type: MetaTag
       property: 'og:title'
+      content: Ethical Breathplay Institute by Vicky Devika
 type: PageLayout
 ---
