@@ -20,9 +20,8 @@ sections:
 
     actions:
       - type: Button
-        label: Enroll Now
-        url: >-
-          https://calendly.com/vickydevika/ethical-breathplay-training-onboarding-call
+        label: Join Waiting List
+        url: 'https://forms.gle/rESgQMBAMjgGHmj57'
         icon: arrowRight
         iconPosition: right
         style: primary
@@ -269,15 +268,14 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Ready to engage in breathplay with confidence and care?
+      text: This workshop will be available in 2025.
       color: text-dark
     subtitle: ''
     text: ''
     actions:
       - type: Button
-        label: Enroll Now
-        url: >-
-          https://calendly.com/vickydevika/ethical-breathplay-training-onboarding-call
+        label: Join the waiting list
+        url: 'https://forms.gle/rESgQMBAMjgGHmj57'
         icon: arrowRight
         iconPosition: right
         style: secondary
