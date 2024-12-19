@@ -275,7 +275,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Enroll Now
+        label: Join the waiting list
         url: >-
           https://calendly.com/vickydevika/ethical-breathplay-training-onboarding-call
         icon: arrowRight
