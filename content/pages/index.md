@@ -381,5 +381,6 @@ seo:
   metaDescription: 'Breathwork redefined: sensual, playful, and deeply fulfilling.'
   socialImage: /images/EBI-5.jpg
   type: Seo
+  addTitleSuffix: true
 type: PageLayout
 ---
