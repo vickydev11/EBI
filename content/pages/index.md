@@ -382,5 +382,7 @@ seo:
   socialImage: /images/EBI-5.jpg
   type: Seo
   addTitleSuffix: true
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 ---
