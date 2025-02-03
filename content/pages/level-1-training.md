@@ -598,7 +598,7 @@ sections:
         alignItems: center
     badge:
       type: Badge
-      label: 'Next Cohort: January 2025'
+      label: 'Next Cohort: Starting Soon'
       color: text-primary
 seo:
   metaTitle: Level 1 Provider & Facilitator Training
